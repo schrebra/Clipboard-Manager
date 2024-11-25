@@ -1,4 +1,4 @@
-# PowerShell Clipboard Manager
+# Clipboard Manager
 
 A lightweight, user-friendly clipboard manager written in PowerShell that allows you to track and manage your clipboard history.
 
